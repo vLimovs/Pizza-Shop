@@ -1,0 +1,6 @@
+export {default as exitIcon} from './../assets/images/logout.svg'
+export {default as userIcon} from './../assets/images/avatar.svg'
+export {default as menuIcon} from './../assets/images/menuIcon.svg'
+export {default as cartIcon} from './../assets/images/cartIcon.svg'
+export {default as profileIcon} from './../assets/images/profileIcon.svg'
+export {default as productCart} from './../assets/images/productCart.svg'
